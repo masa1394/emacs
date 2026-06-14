@@ -1,1 +1,1 @@
-# dot-emacs
+# Emacsの設定メモ
